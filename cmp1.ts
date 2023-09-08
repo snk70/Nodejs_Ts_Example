@@ -8,6 +8,6 @@ const xxx = class Class1 {
 // module.exports = {
 //     sina,
 // };
-exports.soma = xxx;
+// exports.soma = xxx;
 
-// export default {soma:sina};
+export default {soma:xxx};
